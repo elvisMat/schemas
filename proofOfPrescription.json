@@ -10,7 +10,7 @@
     },
     "date": {
       "type": "string",
-      "format": "date",
+    
       "description": "The date of the medical record entry."
     },
     "patient_age": {
